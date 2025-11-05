@@ -10,3 +10,5 @@ FZU Number:832301323
 具有添加，编辑，删除，收藏功能的联系人目录的后端部分
 
 A contact directory with functions of adding, editing, deleting and saving contacts
+
+注意：使用前请先使用npm install 安装依赖,路径 backend/node_modules
