@@ -1,0 +1,12 @@
+{
+  "nextId": 3,
+  "items": [
+    {
+      "id": 1,
+      "name": "示例",
+      "phone": "1145141919",
+      "favorite": 1,
+      "updatedAt": 1762353314733
+    }
+  ]
+}
